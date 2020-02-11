@@ -3,7 +3,7 @@
       <ul>
         <li>
             <i class="icon iconfont icon-zhuanshi"></i><br/>
-            <div>砖石</div>
+            <div>首页</div>
         </li>
         <li>
             <i class="icon iconfont icon-shouji"></i>
